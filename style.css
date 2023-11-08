@@ -1,0 +1,24 @@
+.heading{
+    width:750px;
+    height:75px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.heading:hover{
+    background: linear-gradient(rgb(231, 69, 93), rgb(227, 29, 92), rgb(168, 41, 145));
+    color: rgb(244, 73, 230);
+    box-shadow: 5px 5px 5px rgb(212, 155, 31);
+    border-color: lime;
+    border-width: 1.5px;
+}
+
+.note{
+    color: darkorange;
+    font-family: Calibri;
+}
+
+canvas{
+    border: 11px solid mediumpurple;
+    box-shadow: 7px 7px 7px rgb(175, 150, 227);
+}
