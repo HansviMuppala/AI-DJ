@@ -21,4 +21,5 @@
 canvas{
     border: 11px solid mediumpurple;
     box-shadow: 7px 7px 7px rgb(175, 150, 227);
+    background-color: white;
 }
